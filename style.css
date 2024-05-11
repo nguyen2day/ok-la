@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    background-color: aqua;
+}
+img{
+    height: 8rem;
+    width: auto;
+}
+.title{
+    margin-left: 180px;
+}
+h3{
+    margin-left: 160px;
+}
